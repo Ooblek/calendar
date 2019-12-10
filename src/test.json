@@ -1,0 +1,12 @@
+[{"location":"location one","day":1,"hour":1,"value":1},
+    {"location":"location one","day":1,"hour":2,"value":9},
+    {"location":"location one","day":1,"hour":3,"value":4},
+    {"location":"location one","day":1,"hour":4,"value":5},
+    {"location":"location one","day":1,"hour":5,"value":2},
+    {"location":"location one","day":1,"hour":6,"value":1},
+    {"location":"location one","day":1,"hour":7,"value":5},
+    {"location":"location one","day":1,"hour":8,"value":6},
+    {"location":"location one","day":1,"hour":9,"value":1},
+    {"location":"location one","day":1,"hour":10,"value":4},
+    {"location":"location one","day":1,"hour":11,"value":5},
+    {"location":"location one","day":1,"hour":12,"value":6}]
